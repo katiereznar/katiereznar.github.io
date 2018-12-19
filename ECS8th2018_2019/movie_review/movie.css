@@ -1,0 +1,60 @@
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Staatliches');
+</style>
+
+
+<style>
+  h1,
+  h2,
+  footer {
+    font-family: ‘Staatliches’, cursive;
+  }
+</style>
+
+<style>
+html {
+  width: 320px;
+  margin: 0 auto 0 auto;
+}
+</style>
+
+<style>
+a:hover {
+  color: black;
+}
+</style>
+
+<style>
+html {
+  font-family: 'Comic Sans MS', cursive;
+  font-size: 18px;
+}
+</style>
+
+<style>
+h1,
+h2,
+footer {
+  text-align: center;
+  border: 6px groove deepSkyBlue;
+}
+</style>
+
+<style>
+h1 {
+  text-shadow:  0 3px 0 gray;
+}
+</style>
+
+<style>
+img {
+  border: 12px ridge crimson;
+}
+
+<style>
+html {
+  background: white url(/images/textures/light2a.png);
+  list-style-image: url(/images/icons/icon2.png);
+}
+</style>
