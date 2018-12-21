@@ -14,17 +14,20 @@ img {
 h1 {
   font: 'Trebuchet MS', sans-serif 48px normal; 
   color: slateBlue;
+  box-shadow: 2px 4px gray;
 }
 
 h2 {
   margin: 0 auto 0 auto;
   color: slateBlue;
+  text-shadow: 0 3px 0 gray;
 }
 
 
 h3 {
   margin: 0 auto 0 auto; 
   color: slateBlue;
+  text-shadow: 0 3px 0 gray;
 }
 
 header {
