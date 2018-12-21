@@ -12,10 +12,8 @@ img {
 }
 
 h1 {
-  font-family: 'Trebuchet MS', sans-serif; 
-  font-size: 48px;
+  font: 'Trebuchet MS', sans-serif 48px normal; 
   color: slateBlue;
-  font-weight: normal; 
 }
 
 h2 {
